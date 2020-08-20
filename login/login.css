@@ -1,0 +1,36 @@
+body {
+    background: #ccc;
+}
+
+.login {
+    background: #fff;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+}
+
+.rotulo {
+    width: 100px;
+    font-weight: bold;
+    float: left;
+    padding: 4px;
+}
+
+.campo {
+    display: grid;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 4px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background: #138496;
+    color: #fff;
+    font-weight: bold;
+    border: 0;
+}
